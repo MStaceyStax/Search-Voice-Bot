@@ -13,7 +13,5 @@ Lessons Learnt - During this project, I've picked up on important skills and a b
 
 Areas of Improvement  - A deeper dive into more complex code and functions with Python.
 
-Setup Instructions - 
-
 Overall Growth: Each part of this project helped me understand more about what goes into coding, managing complex information, and resilience. It is more than just making a tool or a project. It was about solving a problems, learning new things from what I was taught, and improving my skills for future  development and projects.
 
